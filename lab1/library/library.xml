@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="./library.css"?>
+<library>
+    <location>Metropolis</location>
+    <description>Fantasy Library</description>
+    <librarian>Diana Prince</librarian>
+    <Books>
+        <!--Book
+        1-->
+        <book isbn="12">
+            <title>The Secret of the Hidden Castle</title>
+            <author>Emily Johnson</author>
+            <preface>Welcome to the enchanting world of magic and mystery...</preface>
+            <parts>
+                <!--Book
+                1 Part 1-->
+                <part isbn="113">
+                    <title>Part One: The Journey Begins</title>
+                    <chapters>
+                        <!--Book
+                        1 Part 1 Chapter 1-->
+                        <chapter isbn="1134">
+                            <title>The Prophecy</title>
+                            <summary>Unveiling the prophecy that changed everything...</summary>
+                            <sections>
+                                <!--Book
+                                1 Part 1 Chapter 1 Section 1-->
+                                <section isbn="11341">
+                                    <paragraphs>
+                                        <paragraph isbn="123411">In a land far away,...</paragraph>
+                                        <paragraph isbn="123412">The kingdom was...</paragraph>
+                                        <paragraph isbn="123413">The king had...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <!--Book
+                                1 Part 1 Chapter 1 Section 2-->
+                                <section isbn="11342">
+                                    <paragraphs>
+                                        <paragraph isbn="113421">The prophecy spoke...</paragraph>
+                                        <paragraph isbn="113422">The fate of...</paragraph>
+                                        <paragraph isbn="113423">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <!--Book
+                        1 Part 1 Chapter 2-->
+                        <chapter isbn="1135">
+                            <title>The Forbidden Forest</title>
+                            <summary>Discovering the secrets hidden within...</summary>
+                            <sections>
+                                <section isbn="11351">
+                                    <paragraphs>
+                                        <paragraph isbn="113511">Deep in the heart...</paragraph>
+                                        <paragraph isbn="113512">The whispers of...</paragraph>
+                                        <paragraph isbn="113513">The journey through...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <section isbn="12352">
+                                    <paragraphs>
+                                        <paragraph isbn="113521">As they delved...</paragraph>
+                                        <paragraph isbn="113522">The mysteries of...</paragraph>
+                                        <paragraph isbn="113523">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+
+                <!--Book
+                1 Part 2-->
+                <part isbn="123">
+                    <title>Part Two: The Quest Continues</title>
+                    <chapters>
+                        <!--Book
+                        1 Part 2 Chapter 1-->
+                        <chapter isbn="1234">
+                            <title>The Lost Artifact</title>
+                            <summary>Unraveling the mysteries of the ancient artifact...</summary>
+                            <sections>
+                                <!--Book
+                                1 Part 2 Chapter 1 Section 1-->
+                                <section isbn="12341">
+                                    <paragraphs>
+                                        <paragraph isbn="123411">As they ventured...</paragraph>
+                                        <paragraph isbn="123412">The legend of...</paragraph>
+                                        <paragraph isbn="123413">The challenges...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <!--Book
+                                1 Part 2 Chapter 1 Section 2-->
+                                <section isbn="12342">
+                                    <paragraphs>
+                                        <paragraph isbn="123421">With every step...</paragraph>
+                                        <paragraph isbn="123422">The hidden dangers...</paragraph>
+                                        <paragraph isbn="123423">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <!--Book
+                        1 Part 2 Chapter 2-->
+                        <chapter isbn="1235">
+                            <title>The Final Confrontation</title>
+                            <summary>Facing the ultimate challenge...</summary>
+                            <sections>
+                                <section isbn="12351">
+                                    <paragraphs>
+                                        <paragraph isbn="123511">In the heart of...</paragraph>
+                                        <paragraph isbn="123512">The forces of...</paragraph>
+                                        <paragraph isbn="123513">The fate of...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <section isbn="12352">
+                                    <paragraphs>
+                                        <paragraph isbn="123521">As they stood...</paragraph>
+                                        <paragraph isbn="123522">The climax of...</paragraph>
+                                        <paragraph isbn="123523">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <!--Book
+        2-->
+        <book isbn="22">
+            <title>Mystery of the Ancient Scroll</title>
+            <author>David Smith</author>
+            <preface>Embark on a journey to unlock the secrets of the ancient scroll...</preface>
+            <parts>
+                <!--Book
+                2 Part 1-->
+                <part isbn="213">
+                    <title>Part One: The Discovery</title>
+                    <chapters>
+                        <!--Book
+                        2 Part 1 Chapter 1-->
+                        <chapter isbn="2134">
+                            <title>The Archaeological Site</title>
+                            <summary>Uncovering the hidden site...</summary>
+                            <sections>
+                                <!--Book
+                                Part 1 Chapter 1 Section 1-->
+                                <section isbn="21341">
+                                    <paragraphs>
+                                        <paragraph isbn="223411">In a remote desert...</paragraph>
+                                        <paragraph isbn="223412">The team of...</paragraph>
+                                        <paragraph isbn="223413">The discovery of...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <!--Book
+                                Part 1 Chapter 1 Section 2-->
+                                <section isbn="21342">
+                                    <paragraphs>
+                                        <paragraph isbn="213421">As they dug...</paragraph>
+                                        <paragraph isbn="213422">The artifacts...</paragraph>
+                                        <paragraph isbn="213423">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <!--Book
+                        2 Part 1 Chapter 2-->
+                        <chapter isbn="1135">
+                            <title>The Cryptic Symbols</title>
+                            <summary>Deciphering the mysterious symbols...</summary>
+                            <sections>
+                                <section isbn="21351">
+                                    <paragraphs>
+                                        <paragraph isbn="213511">The ancient symbols...</paragraph>
+                                        <paragraph isbn="213512">The clues hidden...</paragraph>
+                                        <paragraph isbn="213513">The quest to...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <section isbn="22352">
+                                    <paragraphs>
+                                        <paragraph isbn="213521">As they decoded...</paragraph>
+                                        <paragraph isbn="213522">The secrets revealed...</paragraph>
+                                        <paragraph isbn="213523">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+
+                <!--Book
+                2 Part 2-->
+                <part isbn="223">
+                    <title>Part Two: The Journey Deepens</title>
+                    <chapters>
+                        <!--Book
+                        2 Part 2 Chapter 1-->
+                        <chapter isbn="2234">
+                            <title>The Hidden Chamber</title>
+                            <summary>Exploring the secrets of the hidden chamber...</summary>
+                            <sections>
+                                <!--Book
+                                2 Part 2 Chapter 1 Section 1-->
+                                <section isbn="22341">
+                                    <paragraphs>
+                                        <paragraph isbn="223411">In the depths...</paragraph>
+                                        <paragraph isbn="223412">The chamber...</paragraph>
+                                        <paragraph isbn="223413">The artifacts...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <!--Book
+                                Part 2 Chapter 1 Section 2-->
+                                <section isbn="22342">
+                                    <paragraphs>
+                                        <paragraph isbn="223421">As they ventured...</paragraph>
+                                        <paragraph isbn="223422">The mysteries...</paragraph>
+                                        <paragraph isbn="223423">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <!--Book
+                        2 Part 2 Chapter 2-->
+                        <chapter isbn="2235">
+                            <title>The Guardian's Test</title>
+                            <summary>Confronting the guardian of the scroll...</summary>
+                            <sections>
+                                <section isbn="22351">
+                                    <paragraphs>
+                                        <paragraph isbn="223511">Guardian of...</paragraph>
+                                        <paragraph isbn="223512">The challenges...</paragraph>
+                                        <paragraph isbn="223513">The final...</paragraph>
+                                    </paragraphs>
+                                </section>
+                                <section isbn="22352">
+                                    <paragraphs>
+                                        <paragraph isbn="223521">As they faced...</paragraph>
+                                        <paragraph isbn="223522">The ultimate...</paragraph>
+                                        <paragraph isbn="223523">But little did...</paragraph>
+                                    </paragraphs>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </Books>
+</library>

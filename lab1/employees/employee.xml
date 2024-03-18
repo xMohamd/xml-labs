@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="./employee.css"?>
+<employees>
+    <!--Employee
+    One-->
+    <employee isbn="1">
+        <name>John Doe</name>
+        <phones>
+            <phone type="home">1234567890</phone>
+            <phone type="work">0987654321</phone>
+            <phone type="mobile">9876543210</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>123 Main Street</Street>
+                <BuildingNumber>10</BuildingNumber>
+                <Region>Suburbia</Region>
+                <City>Metropolis</City>
+                <Country>United States</Country>
+            </address>
+        </addresses>
+        <email>john.doe@example.com</email>
+    </employee>
+
+    <!--Employee
+    Two-->
+    <employee isbn="2">
+        <name>Jane Smith</name>
+        <phones>
+            <phone type="home">2345678901</phone>
+            <phone type="work">9876543210</phone>
+            <phone type="mobile">8765432109</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>456 Elm Street</Street>
+                <BuildingNumber>20</BuildingNumber>
+                <Region>Downtown</Region>
+                <City>Metropolis</City>
+                <Country>United States</Country>
+            </address>
+        </addresses>
+        <email>jane.smith@example.com</email>
+    </employee>
+
+    <!--Employee
+    Three-->
+    <employee isbn="3">
+        <name>Michael Johnson</name>
+        <phones>
+            <phone type="home">3456789012</phone>
+            <phone type="work">8765432109</phone>
+            <phone type="mobile">7654321098</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>789 Oak Street</Street>
+                <BuildingNumber>30</BuildingNumber>
+                <Region>Uptown</Region>
+                <City>Metropolis</City>
+                <Country>United States</Country>
+            </address>
+        </addresses>
+        <email>michael.johnson@example.com</email>
+    </employee>
+
+</employees>
